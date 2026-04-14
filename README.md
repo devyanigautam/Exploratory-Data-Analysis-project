@@ -9,5 +9,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
-[![LinkedIn](https://www.linkedin.com/in/devyani-gautam-827297228/)]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devyani-gautam-827297228/)
+
 
